@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayhemkorankye
+- 👋 Hi, I’m @KojoAning
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on anything
