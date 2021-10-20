@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayhemkorankye
-- 👀 I’m interested in python,java.
+- 👀 I’m interested in python.
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me aningabankwa@gmail.com
